@@ -1,6 +1,6 @@
 # Lexora
 
-[![ci](https://github.com/sajadinmaker/lexora-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/sajadinmaker/lexora-ai/actions/workflows/ci.yml)
+[![ci](https://github.com/sajadxdp/lexora-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/sajadxdp/lexora-ai/actions/workflows/ci.yml)
 
 **Upload documents, ask questions, get answers with the source chunks cited.**
 
